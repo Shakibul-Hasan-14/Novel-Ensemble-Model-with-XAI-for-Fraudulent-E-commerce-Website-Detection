@@ -1,4 +1,4 @@
-# Novel Ensemble Model with XAI for Fraudulent E-commerce Website Detection
+# Novel Ensemble Learning Model with XAI for Fraudulent E-commerce Website Detection
 The purpose of this project is to build a novel ensemble model to detect online business websites that are potentially fraud, and explain to customers why the e-commerce has been flagged.
 
 ## Module 1
@@ -15,7 +15,7 @@ Different algorithms were tested, and the best 1 was selected as the meta model.
 XAI was integrated for customer transparency and readibility.
 
 ## Module 5
-Comparsion of the novel ensemble model with other popular ensembles.
+Comparsion of the novel machine learning model with other popular ensembles.
 
 ## Model Flowchart 
 ![image](https://github.com/user-attachments/assets/4804c697-2799-49e9-8a15-a38a913c96ca)
